@@ -1,5 +1,5 @@
 import React from 'react'
-import { LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, Legend, ResponsiveContainer, Label } from 'recharts'
+import { LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, Legend, ResponsiveContainer } from 'recharts'
 import data from './data.json'
 
 const Visualize = () => {
@@ -28,16 +28,11 @@ const Visualize = () => {
             <Line name='Annual Number of Visits' type="monotone" dataKey="annual_visits" stroke="#1EC1C8" activeDot={{ r: 8 }} />
           </LineChart>
         </ResponsiveContainer>
-        <div class="grid-container">
-          <div class="grid-item">
-            
-          </div>
-        </div>
         <h3 style={{ paddingTop: 35, textAlign: 'left', fontFamily: 'monospace', color: '#1EC1C8', marginLeft: '5%' }}>
           <span style={{ color: '#8CAFB1' }}>1&#41;&nbsp;</span>
           The page I examined represents the annual human visits to space from 1961 to 2021. 
           You can view the data for each country or the entire world.&nbsp;
-          <a href='https://ourworldindata.org/grapher/annual-space-visits?country=~OWID_WRL' style={{ color: '#822799' }} target="_blank">
+          <a href='https://ourworldindata.org/grapher/annual-space-visits?country=~OWID_WRL' style={{ color: '#822799' }} target="_blank" rel="noreferrer" >
             Link to the data examined
           </a>
         </h3>
