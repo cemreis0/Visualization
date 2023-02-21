@@ -4,11 +4,11 @@ import Visualize from "./Visualize/Visualize"
 
 function App() {
   return (
-    <Routes>
-      <HashRouter>
-        <Route path="/Visualization" element={<Visualize />} />
-      </HashRouter>
-    </Routes>
+    <HashRouter>
+      <Routes>
+          <Route path="/" element={<Visualize />} />
+      </Routes>
+    </HashRouter>
   )
 }
 
