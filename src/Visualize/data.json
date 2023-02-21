@@ -1,0 +1,368 @@
+[
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 1961,
+    "annual_visits": 4
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 1962,
+    "annual_visits": 5
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 1963,
+    "annual_visits": 5
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 1964,
+    "annual_visits": 3
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 1965,
+    "annual_visits": 12
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 1966,
+    "annual_visits": 10
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 1967,
+    "annual_visits": 1
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 1968,
+    "annual_visits": 7
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 1969,
+    "annual_visits": 23
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 1970,
+    "annual_visits": 5
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 1971,
+    "annual_visits": 12
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 1972,
+    "annual_visits": 6
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 1973,
+    "annual_visits": 13
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 1974,
+    "annual_visits": 6
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 1975,
+    "annual_visits": 11
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 1976,
+    "annual_visits": 6
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 1977,
+    "annual_visits": 6
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 1978,
+    "annual_visits": 10
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 1979,
+    "annual_visits": 4
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 1980,
+    "annual_visits": 13
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 1981,
+    "annual_visits": 10
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 1982,
+    "annual_visits": 15
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 1983,
+    "annual_visits": 25
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 1984,
+    "annual_visits": 37
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 1985,
+    "annual_visits": 63
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 1986,
+    "annual_visits": 12
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 1987,
+    "annual_visits": 8
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 1988,
+    "annual_visits": 18
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 1989,
+    "annual_visits": 27
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 1990,
+    "annual_visits": 38
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 1991,
+    "annual_visits": 42
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 1992,
+    "annual_visits": 58
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 1993,
+    "annual_visits": 47
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 1994,
+    "annual_visits": 50
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 1995,
+    "annual_visits": 48
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 1996,
+    "annual_visits": 48
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 1997,
+    "annual_visits": 58
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 1998,
+    "annual_visits": 38
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 1999,
+    "annual_visits": 22
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 2000,
+    "annual_visits": 37
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 2001,
+    "annual_visits": 44
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 2002,
+    "annual_visits": 40
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 2003,
+    "annual_visits": 13
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 2004,
+    "annual_visits": 9
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 2005,
+    "annual_visits": 15
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 2006,
+    "annual_visits": 26
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 2007,
+    "annual_visits": 26
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 2008,
+    "annual_visits": 37
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 2009,
+    "annual_visits": 46
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 2010,
+    "annual_visits": 31
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 2011,
+    "annual_visits": 28
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 2012,
+    "annual_visits": 15
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 2013,
+    "annual_visits": 15
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 2014,
+    "annual_visits": 12
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 2015,
+    "annual_visits": 12
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 2016,
+    "annual_visits": 14
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 2017,
+    "annual_visits": 11
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 2018,
+    "annual_visits": 9
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 2019,
+    "annual_visits": 9
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 2020,
+    "annual_visits": 12
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 2021,
+    "annual_visits": 7
+  }
+]
