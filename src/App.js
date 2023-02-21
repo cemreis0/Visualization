@@ -1,14 +1,14 @@
 import React from "react"
-import {BrowserRouter as Router, Route, Routes} from "react-router-dom"
+import { HashRouter, Route, Routes } from "react-router-dom"
 import Visualize from "./Visualize/Visualize"
 
 function App() {
   return (
-      <Router>
-        <Routes>
-          <Route path="/Visualization" element={<Visualize />} />
-        </Routes>
-      </Router>
+    <Routes>
+      <HashRouter>
+        <Route path="/Visualization" element={<Visualize />} />
+      </HashRouter>
+    </Routes>
   )
 }
 
